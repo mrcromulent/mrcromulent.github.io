@@ -1,7 +1,7 @@
 ---
 title: "AREPO White Dwarf merger simulations resulting in edge-lit detonation and run-away hypervelocity companion"
 collection: publications
-permalink: /publication/2023-05-11-dd_with_arepo
+permalink: /publication/20230511-dd_with_arepo
 excerpt: ''
 date: 2023-05-11
 venue: 'Monthly Notices of the Royal Astronomical Society'

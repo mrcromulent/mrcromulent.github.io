@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Physics, Australian National University, 2019
 * B.E. (Hons.) in Mechatronics, Australian National University, 2019
-* Ph.D in Astrophysics, Australian National University, 2024 (expected)
+* Ph.D in Astrophysics, Australian National University, 2025 (submitted)
 
 Experience
 ======
