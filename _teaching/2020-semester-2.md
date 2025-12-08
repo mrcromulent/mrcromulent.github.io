@@ -8,13 +8,12 @@ date: 2020-07-01
 location: "Canberra, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduction
+============
 
-Heading 1
+In physics, economics and engineering, we frequently encounter quantities (for example energy) that depend on many variables (such as position, velocity, temperature). Usually, this dependency is expressed through a partial differential equation, and solving these equations is important for understanding these complex relationships.
+
+Topics
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+In this course, we study first- and second-order partial differential equations. The solution methods studied in this course include the method of characteristics, separation of variables, Fourier series and Fourier transforms.
