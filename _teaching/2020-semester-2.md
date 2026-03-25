@@ -8,7 +8,7 @@ date: 2020-07-01
 location: "Canberra, Australia"
 ---
 
-MATH2306: An undergraduate course in partial differential equations.
+For further information, see the full course page.
 
 # Introduction
 

@@ -8,7 +8,7 @@ date: 2021-02-01
 location: "Canberra, Australia"
 ---
 
-MATH2305: An undergraduate course in ordinary differential equations and vector calculus.
+For further information, see the full course page.
 
 # Introduction
 

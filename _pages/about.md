@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Uri P Burmester"
+title: "Mechatronics Engineer and Ph.D. in Computational Astrophysics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
