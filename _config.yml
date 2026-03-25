@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Uri Pierre Burmester - PhD Student"
+title                    : "Uri Pierre Burmester"
 title_separator          : "-"
 name                     : &name "Uri Pierre Burmester"
-description              : &description "PhD Student studying compact star mergers"
+description              : &description "Mechatronics Engineer and Ph.D. in Computational Astrophysics"
 url                      : https://mrcromulent.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mrcromulent/mrcromulent.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Uri P Burmester"
   avatar           : "prof.jpg"
-  bio              : "PhD Student studying compact star mergers"
+  bio              : "Mechatronics Engineer and Ph.D. in Computational Astrophysics"
   location         : "Canberra, Australia"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=XyvYc3IAAAAJ"
   email            : "uri.burmester@anu.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

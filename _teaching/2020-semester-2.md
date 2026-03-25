@@ -8,12 +8,17 @@ date: 2020-07-01
 location: "Canberra, Australia"
 ---
 
-Introduction
-============
+MATH2306: An undergraduate course in partial differential equations.
 
-In physics, economics and engineering, we frequently encounter quantities (for example energy) that depend on many variables (such as position, velocity, temperature). Usually, this dependency is expressed through a partial differential equation, and solving these equations is important for understanding these complex relationships.
+# Introduction
 
-Topics
-======
+In fields such as physics, economics, and engineering, many important quantities - like energy - depend on multiple variables, including position, velocity, and temperature. These relationships are often described using **partial differential equations (PDEs)**. As a demonstrator for this course, I helped students understand and solve PDEs as part of a curriculum focused on modelling complex systems and uncovering how these variables interact.
 
-In this course, we study first- and second-order partial differential equations. The solution methods studied in this course include the method of characteristics, separation of variables, Fourier series and Fourier transforms.
+# Topics
+
+This course focused on first- and second-order partial differential equations and developed practical techniques for solving them. Key methods included:
+
+- **Method of characteristics** – for analyzing and solving first-order PDEs  
+- **Separation of variables** – a powerful technique for reducing complex equations into simpler parts  
+- **Fourier series** – for representing functions as sums of sinusoidal components  
+- **Fourier transforms** – for analyzing problems in the frequency domain  

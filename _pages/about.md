@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Student studying Compact Star Mergers"
+title: "Uri P Burmester"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a research student at the Australian National University, working towards a PhD in Astrophysics.
+Hi! I am a mechatronics engineer and recently-graduated Ph.D. with a degree in Computational Astrophysics.
 
-I graduated from the Australian National University (ANU) with a double degree in Science and Mechatronic Engineering (Hons.) in 2019. My current research focuses on modelling the mergers of compact stars in software, in particular looking for crossover with the plasma/fusion energy space.
+I graduated from the Australian National University (ANU) with a double degree in Science and Mechatronic Engineering (Hons.) in 2019. 
 
-My research is supervised by [Lilia Ferrario](https://researchers.anu.edu.au/researchers/ferrario-l) at the ANU.
+My Ph.D. research focused on modelling the mergers of compact stars in software. It was supervised by [Lilia Ferrario](https://researchers.anu.edu.au/researchers/ferrario-l) at the ANU.
